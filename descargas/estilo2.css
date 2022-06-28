@@ -1,0 +1,78 @@
+* {
+
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+.card_one {
+	background: lightsteelblue;
+	margin-top: 50px;
+	height: 120px;
+
+
+
+}
+
+.card_two {
+	background: lightblue;
+	margin-top: 50px;
+	height: 120px;
+
+
+
+}
+
+.card_three {
+	background: skyblue;
+	margin-top: 50px;
+	height: 120px;
+
+
+}
+
+.card-img-top {
+	height: 120px;
+	width: 120px;
+
+
+}
+
+.card-img-bottom {
+	height: 120px;
+	width: 120px;
+
+
+}
+
+.text-center {
+	color: whitesmoke;
+
+
+}
+
+.ars {
+	height: 50px;
+	width: 50px;
+	float: right;
+	border-radius: 100%;
+}
+
+.ea {
+	height: 50px;
+	width: 50px;
+	float: left;
+	border-radius: 50%;
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.mb-3 {
+  position: relative;
+  background: url(../Web-Soporte/page-master/img/sysad.png);
+  background-size: cover;
+  min-height 700px;
+}
